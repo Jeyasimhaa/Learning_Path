@@ -12,6 +12,7 @@ Each section includes **theory, hands-on implementations, and real-world project
   - Supervised vs Unsupervised vs Reinforcement Learning
 - Real-World ML Applications
   - Industry use cases and practical examples
+  - Click [Here](https://github.com/Jeyasimhaa/DATA_SCIENTIST_/tree/main/DAY%201%20(FN%20%26%20AN)%20%20-%20Python%20Foundations%20-20260107T162228Z-1-001/DAY%201%20(FN%20%26%20AN)%20%20-%20Python%20Foundations)
 
 ---
 
@@ -24,6 +25,7 @@ Each section includes **theory, hands-on implementations, and real-world project
   - Conditional Probability, Bayes’ Theorem
 - **NumPy Hands-on**
   - Numerical computing fundamentals
+  - Click[Here](https://github.com/Jeyasimhaa/DATA_SCIENTIST_/tree/main/DAY%202%20AN%20-%20Math%20Foundations-20260107T162225Z-1-001/DAY%202%20AN%20-%20Math%20Foundations)
 
 ---
 
@@ -32,6 +34,7 @@ Each section includes **theory, hands-on implementations, and real-world project
   - NumPy, Pandas, Matplotlib, Seaborn
 - **EDA, Preprocessing & Visualization**
   - Data cleaning, exploration, and visual analysis techniques
+  - Click[Here](https://github.com/Jeyasimhaa/DATA_SCIENTIST_/tree/main/DAY%203%20AN%20-%20Model%20Fundamentals%20%26%20Linear%20Regression%20-20260107T161315Z-1-001/DAY%203%20AN%20-%20Model%20Fundamentals%20%26%20Linear%20Regression)
 
 ---
 
@@ -39,6 +42,7 @@ Each section includes **theory, hands-on implementations, and real-world project
 - **What is a Model?**
   - Features vs Target
   - Overfitting vs Underfitting
+  - Click[Here](https://github.com/Jeyasimhaa/DATA_SCIENTIST_/tree/main/DAY%203%20FN%20-%20ML%20Libraries%20%26%20EDA%20-20260107T161345Z-1-001/DAY%203%20FN%20-%20ML%20Libraries%20%26%20EDA)
 
 ---
 
@@ -55,6 +59,7 @@ Each section includes **theory, hands-on implementations, and real-world project
   - **Project:** Coffee Shop Sales Prediction + Streamlit Deployment
 - **Lasso & Ridge Regression**
   - L1 & L2 Regularization Techniques
+  - Click[Here](https://github.com/Jeyasimhaa/DATA_SCIENTIST_/tree/main/DAY%205%20-%20Logistic%20Regression-20260107T161349Z-1-001/DAY%205%20-%20Logistic%20Regression)
 
 ---
 
@@ -77,6 +82,7 @@ Each section includes **theory, hands-on implementations, and real-world project
 - **AdaBoost**
 - **Gradient Boosting**
 - **XGBoost Algorithm**
+- Click[Here](https://github.com/Jeyasimhaa/DATA_SCIENTIST_/tree/main/DAY%206%20-%20KNN%20-20260107T161350Z-1-001/DAY%206%20-%20KNN)
 
 ---
 
@@ -90,6 +96,7 @@ Each section includes **theory, hands-on implementations, and real-world project
 - **Hierarchical Clustering**
 - **DBSCAN**
   - Density-Based Clustering
+  - Click[Here](https://github.com/Jeyasimhaa/DATA_SCIENTIST_/tree/main/DAY%207%20-%20Navie%20Bayes-20260107T161352Z-1-001/DAY%207%20-%20Navie%20Bayes)
 
 ---
 
@@ -98,6 +105,7 @@ Each section includes **theory, hands-on implementations, and real-world project
   - Feature Reduction
   - Real-Time Data Applications
   - PCA & ICA for Unsupervised Data
+  - Click[Here](https://github.com/Jeyasimhaa/DATA_SCIENTIST_/tree/main/Day%2011%20AN%20-%20PCA-20260107T161443Z-1-001/Day%2011%20AN%20-%20PCA)
 
 ---
 
@@ -110,6 +118,7 @@ Each section includes **theory, hands-on implementations, and real-world project
 - **Hyperparameter Tuning**
   - GridSearchCV
   - RandomizedSearchCV
+  - Click[Here](https://github.com/Jeyasimhaa/DATA_SCIENTIST_/tree/main/Day%209%20-%20Random%20Forest-20260107T161421Z-1-001/Day%209%20-%20Random%20Forest)
 
 ---
 
