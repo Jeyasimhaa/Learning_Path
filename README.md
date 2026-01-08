@@ -66,7 +66,7 @@ Each section includes **theory, hands-on implementations, and real-world project
 ### 📊 Classification
 - **Logistic Regression**
   - Evaluation Metrics
-  - Mini Project: Heart Disease Classification
+  - Mini Project: Heart Disease Classification [Here](https://datascience-bajvfiqou9rlv8tfsyczxp.streamlit.app/)
 - **K-Nearest Neighbors (KNN)**
 - **Naive Bayes Algorithm**
   - Theory + Hands-on
