@@ -92,7 +92,7 @@ Each section includes **theory, hands-on implementations, and real-world project
 - **K-Means Clustering**
   - Elbow Method
   - Optimal Cluster Selection
-  - **Project:** Customer Segmentation
+  - **Project:** Customer Segmentation [Here](https://datascience-l4fqhy5zpbmgt9bycan3ka.streamlit.app/)
 - **Hierarchical Clustering**
 - **DBSCAN**
   - Density-Based Clustering
@@ -143,4 +143,4 @@ Each section includes **theory, hands-on implementations, and real-world project
 ## 📬 Connect
 Feel free to explore the projects and reach out for collaboration or feedback!
 
-🔗 **GitHub Profile:** https://github.com/your-username
+🔗 **GitHub Profile:** https://github.com/Jeyasimhaa
